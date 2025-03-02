@@ -1,4 +1,4 @@
-[![Typst Package](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FTypsium%typsium-iso-7010%2Fmain%2Ftypst.toml&query=%24.package.version&prefix=v&logo=typst&label=package&color=239DAD)](https://typst.app/universe/package/typsium-iso-7010)
+[![Typst Package](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FTypsium%2Ftypsium-iso-7010%2Fmain%2Ftypst.toml&query=%24.package.version&prefix=v&logo=typst&label=package&color=239DAD)](https://typst.app/universe/package/typsium-iso-7010)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Typsium/typsium/blob/main/LICENSE)
 ![User Manual](https://img.shields.io/badge/manual-.pdf-purple)
 
@@ -31,3 +31,4 @@ A Typst package for displaying commonly used warning signs in typst.
 
 For a full list of pictograms, please visit the [Wikipedia page](https://en.wikipedia.org/wiki/ISO_7010).
 ![result](https://raw.githubusercontent.com/Typsium/typsium-iso-7010/main/tests/mandatory-prohibited/ref/1.png)
+![result](https://raw.githubusercontent.com/Typsium/typsium-iso-7010/main/tests/warning/ref/1.png)
