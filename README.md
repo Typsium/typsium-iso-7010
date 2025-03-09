@@ -30,5 +30,7 @@ A Typst package for displaying commonly used warning signs in typst.
 ![result](https://raw.githubusercontent.com/Typsium/typsium-iso-7010/main/tests/fire-extinguisher/ref/1.png)
 
 For a full list of pictograms, please visit the [Wikipedia page](https://en.wikipedia.org/wiki/ISO_7010).
+
 ![result](https://raw.githubusercontent.com/Typsium/typsium-iso-7010/main/tests/mandatory-prohibited/ref/1.png)
+
 ![result](https://raw.githubusercontent.com/Typsium/typsium-iso-7010/main/tests/warning/ref/1.png)
