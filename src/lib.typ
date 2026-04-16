@@ -44,7 +44,7 @@
   height:auto,
   fit: "cover",
 )={
-  let index = calc.clamp(_validate-index(icon), 1, 70)
+  let index = calc.clamp(_validate-index(icon), 1, 76)
   index = if index < 10 {"00" + str(index)}
     else if index < 100 {"0"  + str(index)}
   
@@ -57,7 +57,7 @@
   height:auto,
   fit: "cover",
 )={
-  let index = calc.clamp(_validate-index(icon), 1, 80)
+  let index = calc.clamp(_validate-index(icon), 1, 89)
   index = if index < 10 {"00" + str(index)}
     else if index < 100 {"0"  + str(index)}
   
@@ -70,7 +70,7 @@
   height:auto,
   fit: "cover",
 )={
-  let index = calc.clamp(_validate-index(icon), 1, 75)
+  let index = calc.clamp(_validate-index(icon), 1, 81)
   index = if index < 10 {"00" + str(index)}
     else if index < 100 {"0"  + str(index)}
   
@@ -83,7 +83,7 @@
   height:auto,
   fit: "cover",
 )={
-  let index = calc.clamp(_validate-index(icon), 1, 63)
+  let index = calc.clamp(_validate-index(icon), 1, 72)
   index = if index < 10 {"00" + str(index)}
     else if index < 100 {"0"  + str(index)}
   
