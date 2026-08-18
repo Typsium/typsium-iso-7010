@@ -160,3 +160,12 @@
   else if category == "e" {emergency-sign(index, inset:inset,  ..args)}
   else if category == "m" {mandatory-actions-sign(index, ..args)}
 }
+
+#let iso-3864-colors = (
+  signal-yellow: rgb("#F9A900"),
+  signal-red: rgb("#9B2423"),
+  signal-blue: rgb("#005387"),
+  signal-green: rgb("#237F52"),
+  signal-white: rgb("#ECECE7"),
+  signal-black: rgb("#2B2B2C"),
+)
