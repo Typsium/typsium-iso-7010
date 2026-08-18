@@ -7,36 +7,11 @@
    viewBox="0 0 70.285721 61.382908"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="ISO_7010_W084.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ecece7"
-     bordercolor="#2b2b2c"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#9b2423"
-     inkscape:document-units="mm"
-     inkscape:zoom="0.73851712"
-     inkscape:cx="238.99243"
-     inkscape:cy="279.61437"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
   <defs
      id="defs1" />
   <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-41.804167,-74.347917)">
     <path
@@ -45,8 +20,7 @@
        stroke-linejoin="round"
        stroke="#2b2b2c"
        stroke-width="3.74859"
-       id="path1-5"
-       inkscape:label="1" />
+       id="path1-5" />
     <path
        id="rect10-1"
        style="fill:#2b2b2c;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:0.387153"
