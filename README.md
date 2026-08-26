@@ -1,5 +1,5 @@
 [![Typst Package](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FTypsium%2Ftypsium-iso-7010%2Fmain%2Ftypst.toml&query=%24.package.version&prefix=v&logo=typst&label=package&color=239DAD)](https://typst.app/universe/package/typsium-iso-7010)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Typsium/typsium-iso-7010/blob/0.1.1/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Typsium/typsium-iso-7010/blob/0.1.2/LICENSE)
 
 # ISO 7010 Warning, Fire, Emergency and Safety Pictograms in Typst
 
@@ -7,7 +7,7 @@ A package for displaying commonly used warning signs in typst.
 
 ## Usage
 ```typst
-#import "@preview/typsium-iso-7010:0.1.1": *
+#import "@preview/typsium-iso-7010:0.1.2": *
 
 #grid(
   columns: 2,
@@ -15,7 +15,7 @@ A package for displaying commonly used warning signs in typst.
   emergency-arrow(direction:0, height: 10em, inset:0%),
 )
 ```
-<img alt="Combined pictogram of emergency exit and arrow pointing to the right." src="https://raw.githubusercontent.com/Typsium/typsium-iso-7010/0.1.1/tests/emergency-exit/ref/1.png" />
+<img alt="Combined pictogram of emergency exit and arrow pointing to the right." src="https://raw.githubusercontent.com/Typsium/typsium-iso-7010/0.1.2/tests/emergency-exit/ref/1.png" />
 
 
 You can use <fire/warning/emergency>-sign methods or the more general iso-7010 method:
@@ -26,7 +26,7 @@ You can use <fire/warning/emergency>-sign methods or the more general iso-7010 m
     iso-7010("F001", height: 10em, inset:0%),
     )
 ```
-<img alt="Combined pictogram of arrow pointing up and a fire extinguisher." src="https://raw.githubusercontent.com/Typsium/typsium-iso-7010/0.1.1/tests/fire-extinguisher/ref/1.png" />
+<img alt="Combined pictogram of arrow pointing up and a fire extinguisher." src="https://raw.githubusercontent.com/Typsium/typsium-iso-7010/0.1.2/tests/fire-extinguisher/ref/1.png" />
 
 Get the localised names of each sign using the get-name method:
 ```typst
@@ -51,7 +51,7 @@ For a full list of pictograms, please visit the [Wikipedia page](https://en.wiki
   prohibited-actions-sign(75, height: 2em),
 )
 ```
-<img alt="Various example pictograms" src="https://raw.githubusercontent.com/Typsium/typsium-iso-7010/0.1.1/tests/mandatory-prohibited/ref/1.png" />
+<img alt="Various example pictograms" src="https://raw.githubusercontent.com/Typsium/typsium-iso-7010/0.1.2/tests/mandatory-prohibited/ref/1.png" />
 
 ```typst
 #grid(
@@ -62,4 +62,4 @@ For a full list of pictograms, please visit the [Wikipedia page](https://en.wiki
   iso-7010("w071", height: 2em), 
 )
 ```
-<img alt="More example pictograms." src="https://raw.githubusercontent.com/Typsium/typsium-iso-7010/0.1.1/tests/warning/ref/1.png" />
+<img alt="More example pictograms." src="https://raw.githubusercontent.com/Typsium/typsium-iso-7010/0.1.2/tests/warning/ref/1.png" />

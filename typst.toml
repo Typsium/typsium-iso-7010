@@ -1,6 +1,6 @@
 [package]
 name = "typsium-iso-7010"
-version = "0.1.1"
+version = "0.1.2"
 repository = "https://github.com/Typsium/typsium-iso-7010"
 license = "MIT"
 entrypoint = "src/lib.typ"
